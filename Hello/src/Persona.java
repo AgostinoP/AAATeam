@@ -25,13 +25,11 @@ public class Persona {
     	this.password=pwd;
     }
 
-
     public String getruolo(){
     	return ruolo;
     }
     public void setruolo(String ru){
     	this.ruolo=ru;
     }
-
 
 }
